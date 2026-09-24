@@ -37,10 +37,11 @@ Baixe o arquivo do seu sistema na página de [Releases](https://github.com/adrha
 
 > Alguns vídeos `.mkv` ou em H.265/HEVC podem não tocar no Windows, porque dependem dos codecs do sistema. Se isso acontecer, instale a "Extensão de Vídeo HEVC" pela Microsoft Store ou converta o vídeo para `.mp4` (H.264).
 
-### Linux (Debian, Ubuntu e derivados)
+### Linux
 
 ```bash
-sudo apt install ./BananaPlay_x.y.z_amd64.deb
+sudo apt install ./BananaPlay_x.y.z_amd64.deb          # Debian, Ubuntu, Mint...
+sudo dnf install ./BananaPlay-x.y.z-1.x86_64.rpm       # Fedora, openSUSE...
 ```
 
 Para reproduzir o máximo de formatos, instale também os plugins do GStreamer:

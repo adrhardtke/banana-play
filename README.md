@@ -13,6 +13,10 @@
   <a href="https://github.com/adrhardtke/banana-play/releases/latest"><b>⬇️ Baixar a versão mais recente</b></a>
 </p>
 
+<p align="center">
+  <a href="https://ko-fi.com/bananaplay"><img src="https://img.shields.io/badge/Apoie%20no%20Ko--fi-☕-FF5E5B?logo=ko-fi&logoColor=white" alt="Apoie no Ko-fi" /></a>
+</p>
+
 ---
 
 ## Recursos

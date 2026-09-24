@@ -17,6 +17,10 @@
   <a href="https://ko-fi.com/bananaplay"><img src="https://img.shields.io/badge/Apoie%20no%20Ko--fi-☕-FF5E5B?logo=ko-fi&logoColor=white" alt="Apoie no Ko-fi" /></a>
 </p>
 
+<p align="center">
+  <img src="banana-play-app.png" width="800" alt="Tela do BananaPlay" />
+</p>
+
 ---
 
 ## Recursos
